@@ -1,0 +1,12 @@
+[submodule "python-learn"]
+	path = python-learn
+	url = git@github.com:Castlebin/python-learn.git
+[submodule "config-server"]
+	path = config-server
+	url = git@github.com:spring-cloud-samples/configserver.git
+[submodule "turbine"]
+	path = turbine
+	url = git@github.com:spring-cloud-samples/turbine.git
+[submodule "zuul-server"]
+	path = zuul-server
+	url = git@github.com:spring-cloud-samples/zuul-server.git
